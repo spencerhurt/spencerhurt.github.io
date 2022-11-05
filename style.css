@@ -224,6 +224,16 @@ img {
   display: block;
 }
 
+img.volatile {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+figcaption {
+  font-size: .9em;
+}
+
 /* Inherit fonts for inputs and buttons */
 input,
 button,
@@ -308,7 +318,7 @@ td {
 /* Table caption */
 caption {
   text-align: left;
-  font-size: 0.923em;
+  font-size: 0.8em;
   /* border-bottom: 2pt solid #000; */
   padding: 0 0.25em 0.25em;
   width: 100%;
@@ -434,6 +444,7 @@ dl dd {
 
 .sidenote.left {
   float: left;
+  clear: left;
   margin-left: -20vw;
   margin-bottom: 1em;
 }
@@ -510,6 +521,12 @@ input.sidenote-toggle {
   blockquote .sidenote {
     margin-right: -25vw;
     width: 16vw;
+  }
+}
+
+@media (max-width: 1050px) {
+  img.volatile {
+    display: none;
   }
 }
 
