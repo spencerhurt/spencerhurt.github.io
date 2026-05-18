@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Intermountain Musings"
+title                    : "Spencer Hurt"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Spencer Hurt"
-description              : "Musings from the mountains, shrublands, and prairie."
+description              : "The extreme clarity of the desert light is equaled by the extreme individuation of desert life forms. Love flowers best in openness and freedom. (Edward Abbey, Desert Solitaire)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Spencer Hurt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello"
-  location         : "Grand Lake, CO"
+  bio              : "Incoming PhD Student at University of Nevada, Reno"
+  location         : "Reno, NV"
   email            :
   links:
     - label: "Email"
@@ -159,7 +159,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2025"
+  since: "2026"
 
 
 # Reading Files
