@@ -8,5 +8,6 @@ header:
 
 ![RNSS](/images/self.jpg){: .align-right}
 
-<img style="float: right;" src="self.jpg"/>
-<img style="display: block; margin: auto;" src="self.jpg"/>
+![image](/images/self.jpg){: style="float: left"; margin-right: 10em; width="25%"}
+
+Some text.
