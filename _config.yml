@@ -142,7 +142,8 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon = "google-scholar"
+      icon_pack = "ai"
       url: "https://scholar.google.com/citations?user=FM1saMcAAAAJ&hl=en"
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
