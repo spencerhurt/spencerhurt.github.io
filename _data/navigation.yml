@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Photos"
     url: /photos/
+  - title: "CV"
+    url: /images/cv.pdf
