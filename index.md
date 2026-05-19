@@ -11,6 +11,6 @@ header:
     <img src="/images/self.jpg" alt="">
   </div>
   <div>
-    <p>I am an incoming PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution, and Conservation Biology (EECB) program</a> at the University of Nevada, Reno, where I will be working with <a href="https://www.nevadaseeds.com/">Dr. Elizabeth Leger</a>.</p>
+    <p>I am an incoming PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution, and Conservation Biology program</a> at the University of Nevada, Reno, where I will be working with <a href="https://www.nevadaseeds.com/">Dr. Elizabeth Leger</a>. I am broadly interested in plant, community, and restoration ecology in arid and semi-arid ecosystems, and I intend to focus on the sagebrush steppe of the Great Basin Desert.</p>
   </div>
 </div>
