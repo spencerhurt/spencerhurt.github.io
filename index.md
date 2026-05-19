@@ -6,19 +6,11 @@ header:
   image: images/header.jpg
 ---
 
-<br>
-
-## Hi There!
-
-
-![image](/images/self.jpg){: style="float: left"; margin-right: 1em; width="25%"}
-
 <div style="clear: both;">
-  <div style="float: left; margin-right: 1em; width: 25%">
+  <div style="float: left; margin-right: 1em; width: 35%">
     <img src="/images/self.jpg" alt="">
   </div>
   <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <p>I am an incoming Ecology, Evolution, and Conservation Biology (EECB) PhD student at the University of Nevada, Reno.</p>
   </div>
 </div>
