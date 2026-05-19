@@ -7,7 +7,7 @@ header:
 ---
 
 <div style="clear: both;">
-  <div style="float: left; margin-right: 1em; width: 45%">
+  <div style="float: left; margin-right: 1em; width: 50%">
     <img src="/images/self.jpg" alt="Helping release captive-raised Wyoming Toads (Anaxyrus baxteri) with USFWS!">
   </div>
   <div>
