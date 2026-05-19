@@ -14,7 +14,7 @@ header:
 ![image](/images/self.jpg){: style="float: left"; margin-right: 1em; width="25%"}
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 1em; width 25em">
+  <div style="float: left; margin-right: 1em; width: 25%">
     <img src="/images/self.jpg" alt="">
   </div>
   <div>
