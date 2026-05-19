@@ -141,6 +141,8 @@ author:
 # Site Footer
 footer:
   links:
+    - icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shurt@unr.edu"
     - icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=FM1saMcAAAAJ&hl=en"
     - icon: "fa-brands fa-orcid"
