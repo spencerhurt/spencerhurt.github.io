@@ -11,6 +11,6 @@ header:
     <img src="/images/self.jpg" alt="">
   </div>
   <div>
-    <p>I am an incoming Ecology, Evolution, and Conservation Biology (EECB) PhD student at the University of Nevada, Reno.</p>
+    <p>I am an incoming PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution, and Conservation Biology (EECB) program</a> at the University of Nevada, Reno.</p>
   </div>
 </div>
