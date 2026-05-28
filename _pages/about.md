@@ -3,6 +3,8 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
+header:
+  image: images/header.jpg
 ---
 
 <div style="clear: both;">
