@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: false
 header:
-  image: images/header.jpg
+  image: images/gila-ortho.jpg
 ---
 
 <div style="clear: both;">
