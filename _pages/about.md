@@ -3,9 +3,9 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
-header:
-  image: images/gila-ortho.jpg
 ---
+
+## About
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; width: 48%">
@@ -17,17 +17,3 @@ header:
     <p>I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I conducted research on exoplanetary systems and was recognized with <a href="https://goldwaterscholarship.gov/">Goldwater</a> and <a href="https://www.astronautscholarship.org/">Astronaut Scholarships</a>. Afterwards, I worked as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.</p>
   </div>
 </div>
----
-layout: single
-author_profile: false
-permalink: /about/
----
-
-<br>
-
-![RNSS](/images/about.jpg){: .align-center}
-
-## About
-Howdy! I am a naturalist currently based in Grand Lake, CO, with a strong interest in landscape and stream ecology. I spend most of my free time exploring the Intermountain West, familiarizing myself with the local flora, fauna, and geology. This blog is mostly an exercise in writing, but also a way to document what I wander upon.
-
-Feel free to check out my [eBird](https://ebird.org/profile/MzY3MzY2MA) and [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=spencer3616&verifiable=any) observations! Some of of my better photos can be found here [here](/photos/). If you can imagine a good reason to reach out, my email is [sahurt@pm.me](mailto:sahurt@pm.me).
