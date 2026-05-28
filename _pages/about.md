@@ -7,7 +7,7 @@ author_profile: false
 
 <br>
 
-<img src="/images/self.jpg" alt="Helping release captive-raised Wyoming Toads (Anaxyrus baxteri) with USFWS!">
+<img src="/images/self2.jpg">
 
 
 ## About
