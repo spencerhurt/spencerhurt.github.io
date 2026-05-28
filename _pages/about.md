@@ -3,6 +3,7 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
+toc: false
 ---
 
 
