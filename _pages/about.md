@@ -16,7 +16,7 @@ I am a PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution,
 
 I previously worked in watershed science and management, including the <a href="https://research.fs.usda.gov/psw/forestsandranges/locations/casparcreek">Caspar Creek Experimental Watersheds</a> (located in a coastal redwood forest) and <a href="https://www.fs.usda.gov/r03/gila">Gila National Forest</a> in southwestern New Mexico. I am skilled in hydraulic and hydrologic modeling, monitoring water quality and stream health, and implementing revegetation and low-tech process-based restoration (LTPBR) projects.
 
-I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I conducted research on exoplanetary systems and fell in love with Bayesian statistics and modeling. Afterwards, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
+I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I conducted research on exoplanetary systems and developed an affinity for Bayesian statistics and modeling. Afterwards, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
 
 
 
