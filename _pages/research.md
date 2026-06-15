@@ -3,6 +3,13 @@ permalink: /research/
 layout: single
 classes: wide
 author_profile: false
-header:
-  image: images/header.jpg
 ---
+
+<img src="/images/sagegrouse.jpg">
+
+## Current Research
+
+
+
+
+## Past Research
