@@ -3,20 +3,6 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
-
-gallery:
-  - url: /images/photos/baldeagle.jpg
-    image_path: /images/photos/baldeagle.jpg
-    alt: "Bald Eagle (Laramie, WY)"
-    title: "Bald Eagle (Laramie, WY)"
-  - url: /images/photos/acornwoodpecker.jpg
-    image_path: /images/photos/acornwoodpecker.jpg
-    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
-    title: "Acorn Woodpecker (Sierra Vista, AZ)"
-  - url: /images/photos/loggerheadshrike.jpg
-    image_path: /images/photos/loggerheadshrike.jpg
-    alt: "Loggerhead Shrike (Bosque del Apache NWR, NM)"
-    title: "Loggerhead Shrike (Bosque del Apache NWR, NM)"
 ---
 
 <br>
@@ -32,13 +18,10 @@ Prior to graduate school, I worked in hydrology and watershed science. Highlight
 
 I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I received <a href="https://goldwaterscholarship.gov/">Goldwater</a> and <a href="https://www.astronautscholarship.org/">Astronaut Scholarships</a> for my research on exoplanet systems and developed an affinity for Bayesian statistics and modeling. After college, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
 
+<div class="grid" markdown>
 
-<figure class="half">
-  <a href="/images/photos/baldeagle.jpg">
-  <img src="/images/photos/baldeagle.jpg"></a>
+![Image title](/images/photos/baldeagle.jpg)
 
-  <a href="/images/photos/baldeagle.jpg">
-  <img src="/images/photos/baldeagle.jpg"></a>
+![Image title](/images/photos/baldeagle.jpg)
 
-  <figcaption>Gallery with a two image per row grid.</figcaption>
-</figure>
+</div>
