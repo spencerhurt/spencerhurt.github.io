@@ -3,6 +3,20 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
+
+gallery:
+  - url: /images/photos/baldeagle.jpg
+    image_path: /images/photos/baldeagle.jpg
+    alt: "Bald Eagle (Laramie, WY)"
+    title: "Bald Eagle (Laramie, WY)"
+  - url: /images/photos/acornwoodpecker.jpg
+    image_path: /images/photos/acornwoodpecker.jpg
+    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
+    title: "Acorn Woodpecker (Sierra Vista, AZ)"
+  - url: /images/photos/loggerheadshrike.jpg
+    image_path: /images/photos/loggerheadshrike.jpg
+    alt: "Loggerhead Shrike (Bosque del Apache NWR, NM)"
+    title: "Loggerhead Shrike (Bosque del Apache NWR, NM)"
 ---
 
 <br>
@@ -17,3 +31,5 @@ I am a PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution,
 Prior to graduate school, I worked in hydrology and watershed science. Highlights include habitat restoration and post-fire management in the <a href="https://www.fs.usda.gov/r03/gila">Gila National Forest</a> of southwestern New Mexico, as well as studying the effects of timber management on streamflow and water quality in a coastal redwood forest at the <a href="https://research.fs.usda.gov/psw/forestsandranges/locations/casparcreek">Caspar Creek Experimental Watersheds</a>.
 
 I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I received <a href="https://goldwaterscholarship.gov/">Goldwater</a> and <a href="https://www.astronautscholarship.org/">Astronaut Scholarships</a> for my research on exoplanet systems and developed an affinity for Bayesian statistics and modeling. After college, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
+
+{% include gallery class="full"%}
