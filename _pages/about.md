@@ -17,7 +17,7 @@ gallery:
 
 <br>
 
-<img src="/images/self2.jpg">
+<img src="/images/self2.jpg" width="50%">
 
 
 ## About
