@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 ---
 
-<img src="/images/sagegrouse.jpg">
+<img src="/images/grouse.jpg">
 
 ## Current Research
 
