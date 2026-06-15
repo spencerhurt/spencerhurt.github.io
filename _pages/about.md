@@ -5,19 +5,28 @@ classes: wide
 author_profile: false
 
 gallery:
+
+  - url: /images/mono.jpg
+    image_path: /images/mono.jpg
+    alt: "Mono Lake (Mono County, CA)"
+    title: "Mono Lake (Mono County, CA)"
   - url: /images/troutfire-smoke.jpg
     image_path: /images/troutfire-smoke.jpg
-    alt: "Bald Eagle (Laramie, WY)"
-    title: "Bald Eagle (Laramie, WY)"
+    alt: "The smoke plume from the 2025 Trout Fire in Gila National Forest"
+    title: "The smoke plume from the 2025 Trout Fire in Gila National Forest"
   - url: /images/caspar.jpg
     image_path: /images/caspar.jpg
-    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
-    title: "Acorn Woodpecker (Sierra Vista, AZ)"
+    alt: "In the Caspar Creek Experimental Watersheds"
+    title: "In the Caspar Creek Experimental watersheds"
+  - url: /images/wiro.jpg
+    image_path: /images/wiro.jpg
+    alt: "The Wyoming Infrared Observatory (WIRO)"
+    title: "The Wyoming Infrared Observatory (WIRO)"
 ---
 
 <br>
 
-<img src="/images/self2.jpg" width="50%">
+<img src="/images/self2.jpg">
 
 
 ## About
