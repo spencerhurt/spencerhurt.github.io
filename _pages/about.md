@@ -3,6 +3,16 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
+
+gallery:
+  - url: /images/troutfire-smoke.jpg
+    image_path: /images/troutfire-smoke.jpg
+    alt: "Bald Eagle (Laramie, WY)"
+    title: "Bald Eagle (Laramie, WY)"
+  - url: /images/caspar.jpg
+    image_path: /images/caspar.jpg
+    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
+    title: "Acorn Woodpecker (Sierra Vista, AZ)"
 ---
 
 <br>
@@ -18,10 +28,4 @@ Prior to graduate school, I worked in hydrology and watershed science. Highlight
 
 I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I received <a href="https://goldwaterscholarship.gov/">Goldwater</a> and <a href="https://www.astronautscholarship.org/">Astronaut Scholarships</a> for my research on exoplanet systems and developed an affinity for Bayesian statistics and modeling. After college, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
 
-<div class="grid">
-
-<img src="/images/troutfire-smoke.jpg">
-
-<img src="/images/caspar.jpg">
-
-</div>
+{% include gallery class="full" layout="half" %}
