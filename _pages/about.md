@@ -28,4 +28,4 @@ Prior to graduate school, I worked in hydrology and watershed science. Highlight
 
 I graduated summa cum laude from the University of Colorado Boulder with a BA in Astrophysics and Planetary Science. During this time, I received <a href="https://goldwaterscholarship.gov/">Goldwater</a> and <a href="https://www.astronautscholarship.org/">Astronaut Scholarships</a> for my research on exoplanet systems and developed an affinity for Bayesian statistics and modeling. After college, I worked several years as an engineer at the <a href="https://www.uwyo.edu/physics/observatories/wiro.html">Wyoming Infrared Observatory (WIRO)</a>.
 
-{% include gallery class="full" %}
+{% include gallery %}
