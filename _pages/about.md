@@ -12,16 +12,16 @@ gallery:
     title: "Mono Lake (Mono County, CA)"
   - url: /images/troutfire-smoke.jpg
     image_path: /images/troutfire-smoke.jpg
-    alt: "The smoke plume from the 2025 Trout Fire in Gila National Forest"
-    title: "The smoke plume from the 2025 Trout Fire in Gila National Forest"
+    alt: "Smoke plume from the 2025 Trout Fire in Gila National Forest"
+    title: "Smoke plume from the 2025 Trout Fire in Gila National Forest"
   - url: /images/caspar.jpg
     image_path: /images/caspar.jpg
-    alt: "In the Caspar Creek Experimental Watersheds"
-    title: "In the Caspar Creek Experimental watersheds"
+    alt: "Among the redwoods in the Caspar Creek Experimental Watersheds"
+    title: "Among the redwoods in the Caspar Creek Experimental Watersheds"
   - url: /images/wiro.jpg
     image_path: /images/wiro.jpg
-    alt: "The Wyoming Infrared Observatory (WIRO)"
-    title: "The Wyoming Infrared Observatory (WIRO)"
+    alt: "Wyoming Infrared Observatory (WIRO)"
+    title: "Wyoming Infrared Observatory (WIRO)"
 ---
 
 <br>
