@@ -12,16 +12,24 @@ gallery:
     title: "Mono Lake (Mono County, CA)"
   - url: /images/troutfire-smoke.jpg
     image_path: /images/troutfire-smoke.jpg
-    alt: "Smoke plume from the 2025 Trout Fire in Gila National Forest"
-    title: "Smoke plume from the 2025 Trout Fire in Gila National Forest"
+    alt: "Smoke plume from the 2025 Trout Fire in Gila National Forest."
+    title: "Smoke plume from the 2025 Trout Fire in Gila National Forest."
   - url: /images/caspar.jpg
     image_path: /images/caspar.jpg
-    alt: "Among the redwoods in the Caspar Creek Experimental Watersheds"
-    title: "Among the redwoods in the Caspar Creek Experimental Watersheds"
+    alt: "Among the redwoods in the Caspar Creek Experimental Watersheds."
+    title: "Among the redwoods in the Caspar Creek Experimental Watersheds."
   - url: /images/wiro.jpg
     image_path: /images/wiro.jpg
-    alt: "Wyoming Infrared Observatory (WIRO)"
-    title: "Wyoming Infrared Observatory (WIRO)"
+    alt: "The Wyoming Infrared Observatory (WIRO) at the top of Mount Jelm."
+    title: "The Wyoming Infrared Observatory (WIRO) at the top of Mount Jelm."
+  - url: /images/mee.jpg
+    image_path: /images/mee.jpg
+    alt: "Mee Canyon Alcove near my hometown of Fruita, CO."
+    title: "Mee Canyon Alcove near my hometown of Fruita, CO."
+  - url: /images/lonepine.jpg
+    image_path: /images/lonepine.jpg
+    alt: "Surveying for amphibians at the foot of Colorado's Park Range."
+    title: "Surveying for amphibians at the foot of Colorado's Park Range."
 ---
 
 <br>
