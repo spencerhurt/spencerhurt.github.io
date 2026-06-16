@@ -1,6 +1,7 @@
 ---
 permalink: /photos/
 layout: single
+classes: wide
 author_profile: false
 
 gallery:
