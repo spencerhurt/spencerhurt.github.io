@@ -122,8 +122,12 @@ gallery:
 
 <br>
 
+I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildlife">wildlife</a> and <a href="/photos/#plants">plants</a>. Some of my better photos can be seen below, but I take many more horrendous photos that can be found on <a href="https://www.inaturalist.org/observations?place_id=any&user_id=spencer-hurt&verifiable=any">iNaturalist</a> and <a href="https://ebird.org/profile/MzY3MzY2MA">eBird</a>. I also infrequently take <a href="/photos/#astrophotography">astronomical photos</a>, some of which can be found on <a href="https://app.astrobin.com/u/shurt">my AstroBin page</a>.
+
 ## Wildlife 
 
 {% include gallery %}
 
-I try to minimally edit pictures and realistically depict what I see in the field. Most of my better photos are captured with a Nikon D500 and 200-500mm lens. I take many more horrendous pictures, often with a beat-up Nikon Coolpix P950.
+## Plants
+
+
