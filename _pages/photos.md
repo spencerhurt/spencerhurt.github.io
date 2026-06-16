@@ -101,10 +101,6 @@ gallery:
     image_path: /images/photos/swiftfox.jpg
     alt: "Swift Fox (Laramie, WY)"
     title: "Swift Fox (Laramie, WY)"
-  - url: /images/photos/rufoushummingbird.jpg
-    image_path: /images/photos/rufoushummingbird.jpg
-    alt: "Rufous Hummingbird (Grand Lake, CO)"
-    title: "Rufous Hummingbird (Grand Lake, CO)"
   - url: /images/photos/spottedtowhee.jpg
     image_path: /images/photos/spottedtowhee.jpg
     alt: "Spotted Towhee (Albuquerque, NM)"
