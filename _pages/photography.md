@@ -1,5 +1,5 @@
 ---
-permalink: /photos/
+permalink: /photography/
 layout: single
 classes: wide
 author_profile: false
