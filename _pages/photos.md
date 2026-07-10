@@ -131,14 +131,18 @@ gallery2:
     image_path: /images/photos/sedum-debile.jpg
     alt: "Sedum debile (Toiyabe Range, NV)"
     title: "Sedum debile (Toiyabe Range, NV)"
-  - url: /images/photos/penstemon-palmeri.jpg
-    image_path: /images/photos/penstemon-palmeri.jpg
-    alt: "Penstemon palmeri (Washoe County, NV)"
-    title: "Penstemon palmeri (Washoe County, NV)"
   - url: /images/photos/diplacus-ovatus.jpg
     image_path: /images/photos/diplacus-ovatus.jpg
     alt: "Diplacus ovatus (Hidden Valley, NV)"
     title: "Diplacus ovatus (Hidden Valley, NV)"
+    - url: /images/photos/silene-laciniata.jpg
+    image_path: /images/photos/silene-laciniata.jpg
+    alt: "Silene laciniata (Mendocino County, CA)"
+    title: "Silene laciniata (Mendocino County, CA)"
+  - url: /images/photos/penstemon-palmeri.jpg
+    image_path: /images/photos/penstemon-palmeri.jpg
+    alt: "Penstemon palmeri (Washoe County, NV)"
+    title: "Penstemon palmeri (Washoe County, NV)"
   - url: /images/photos/adelinia-grandis.jpg
     image_path: /images/photos/adelinia-grandis.jpg
     alt: "Adelina grandis (Mendocino County, CA)"
@@ -147,10 +151,6 @@ gallery2:
     image_path: /images/photos/castilleja-exserta.jpg
     alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
     title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
-  - url: /images/photos/silene-laciniata.jpg
-    image_path: /images/photos/silene-laciniata.jpg
-    alt: "Silene laciniata (Mendocino County, CA)"
-    title: "Silene laciniata (Mendocino County, CA)"
 ---
 
 <br>
