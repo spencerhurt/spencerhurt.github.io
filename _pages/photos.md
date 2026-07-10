@@ -127,6 +127,22 @@ gallery2:
     image_path: /images/photos/erythranthe-erubescens.jpg
     alt: "Erythranthe erubescens (Near Round Lake, CA)"
     title: "Erythranthe erubescens (Near Round Lake, CA)"
+  - url: /images/photos/sedum-debile.jpg
+    image_path: /images/photos/sedum-debile.jpg
+    alt: "Sedum debile (Toiyabe Range, NV)"
+    title: "Sedum debile (Toiyabe Range, NV)"
+  - url: /images/photos/penstemon-palmeri.jpg
+    image_path: /images/photos/penstemon-palmeri.jpg
+    alt: "Penstemon palmeri (Washoe County, NV)"
+    title: "Penstemon palmeri (Washoe County, NV)"
+  - url: /images/photos/penstemon-palmeri.jpg
+    image_path: /images/photos/penstemon-palmeri.jpg
+    alt: "Penstemon palmeri (Washoe County, NV)"
+    title: "Penstemon palmeri (Washoe County, NV)"
+  - url: /images/photos/diplacus-ovatus.jpg
+    image_path: /images/photos/diplacus-ovatus.jpg
+    alt: "Diplacus ovatus (Hidden Valley, NV)"
+    title: "Diplacus ovatus (Hidden Valley, NV)"
 ---
 
 <br>
