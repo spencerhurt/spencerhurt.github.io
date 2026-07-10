@@ -135,7 +135,7 @@ gallery2:
     image_path: /images/photos/diplacus-ovatus.jpg
     alt: "Diplacus ovatus (Hidden Valley, NV)"
     title: "Diplacus ovatus (Hidden Valley, NV)"
-    - url: /images/photos/silene-laciniata.jpg
+  - url: /images/photos/silene-laciniata.jpg
     image_path: /images/photos/silene-laciniata.jpg
     alt: "Silene laciniata (Mendocino County, CA)"
     title: "Silene laciniata (Mendocino County, CA)"
@@ -147,6 +147,12 @@ gallery2:
     image_path: /images/photos/adelinia-grandis.jpg
     alt: "Adelina grandis (Mendocino County, CA)"
     title: "Adelina grandis (Mendocino County, CA)"
+  - url: /images/photos/castilleja-exserta.jpg
+    image_path: /images/photos/castilleja-exserta.jpg
+    alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
+    title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
+
+gallery3:
   - url: /images/photos/castilleja-exserta.jpg
     image_path: /images/photos/castilleja-exserta.jpg
     alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
@@ -170,3 +176,5 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildl
 {% include gallery id="gallery2" %}
 
 ## Space
+
+{% include gallery id="gallery3" %}
