@@ -119,6 +119,14 @@ gallery2:
     image_path: /images/photos/ivesia-pityocharis.jpg
     alt: "Ivesia pityocharis (Pine Nut Mountains, NV)"
     title: "Ivesia pityocharis (Pine Nut Mountains, NV)"
+  - url: /images/photos/sisyrinchium-californicum.jpg
+    image_path: /images/photos/sisyrinchium-californicum.jpg
+    alt: "Sisyrinchium californicum (Butterfly Valley, CA)"
+    title: "Sisyrinchium californicum (Butterfly Valley, CA)"
+  - url: /images/photos/erythranthe-erubescens.jpg
+    image_path: /images/photos/erythranthe-erubescens.jpg
+    alt: "Erythranthe erubescens (Near Round Lake, CA)"
+    title: "Erythranthe erubescens (Near Round Lake, CA)"
 ---
 
 <br>
