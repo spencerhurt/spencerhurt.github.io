@@ -1,5 +1,4 @@
 ---
-title: Photos
 permalink: /photos/
 layout: single
 classes: wide
