@@ -155,16 +155,16 @@ gallery2:
 gallery3:
   - url: /images/photos/IC1396.jpg
     image_path: /images/photos/IC1396.jpg
+  - url: /images/photos/rosette.jpg
+    image_path: /images/photos/rosette.jpg
   - url: /images/photos/IC2177.jpg
     image_path: /images/photos/IC2177.jpg
-  - url: /images/photos/Markarian.jpg
-    image_path: /images/photos/Markarian.jpg
   - url: /images/photos/NGC7000.jpg
     image_path: /images/photos/NGC7000.jpg
   - url: /images/photos/Soul.jpg
     image_path: /images/photos/Soul.jpg
-  - url: /images/photos/rosette.jpg
-    image_path: /images/photos/rosette.jpg
+  - url: /images/photos/Markarian.jpg
+    image_path: /images/photos/Markarian.jpg
 ---
 
 <br>
