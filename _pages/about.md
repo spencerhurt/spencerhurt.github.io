@@ -8,8 +8,8 @@ gallery:
 
   - url: /images/mono.jpg
     image_path: /images/mono.jpg
-    alt: "Mono Lake (Mono County, CA)"
-    title: "Mono Lake (Mono County, CA)"
+    alt: "Mono Lake"
+    title: "Mono Lake"
   - url: /images/troutfire-smoke.jpg
     image_path: /images/troutfire-smoke.jpg
     alt: "Smoke plume from the 2025 Trout Fire in Gila National Forest."
@@ -39,7 +39,7 @@ gallery:
 
 ## About
 
-I am a PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution, and Conservation Biology program</a> at the University of Nevada, Reno, where I am working with <a href="https://www.nevadaseeds.com/">Dr. Elizabeth Leger</a>. I am broadly interested in plant, community, and restoration ecology in arid and semi-arid landscapes, with a focus on the Great Basin Desert. While plants are my main jam, I also have extensive experience conducting bird and amphibian surveys throughout the Intermountain West.
+I am a PhD student in the <a href="https://www.unr.edu/eecb">Ecology, Evolution, and Conservation Biology program</a> at the University of Nevada, Reno, where I am working with <a href="https://www.nevadaseeds.com/">Dr. Elizabeth Leger</a>. I am broadly interested in plant and restoration ecology in dryland ecosystems, with a focus on the Great Basin Desert. While plants are my main jam, I also have extensive experience conducting bird and amphibian surveys throughout the Intermountain West.
 
 Prior to graduate school, I worked in hydrology and watershed science. Highlights include habitat restoration and post-fire management in the <a href="https://www.fs.usda.gov/r03/gila">Gila National Forest</a> of southwestern New Mexico, as well as studying the effects of timber management on streamflow and water quality in a coastal redwood forest at the <a href="https://research.fs.usda.gov/psw/forestsandranges/locations/casparcreek">Caspar Creek Experimental Watersheds</a>.
 
