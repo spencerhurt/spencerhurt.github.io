@@ -151,12 +151,6 @@ gallery2:
     image_path: /images/photos/castilleja-exserta.jpg
     alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
     title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
-
-gallery3:
-  - url: /images/photos/castilleja-exserta.jpg
-    image_path: /images/photos/castilleja-exserta.jpg
-    alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
-    title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
 ---
 
 <br>
@@ -176,5 +170,3 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildl
 {% include gallery id="gallery2" %}
 
 ## Space
-
-{% include gallery id="gallery3" %}
