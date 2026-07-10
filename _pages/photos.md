@@ -4,7 +4,7 @@ layout: single
 classes: wide
 author_profile: false
 
-gallery:
+gallery1:
   - url: /images/photos/baldeagle.jpg
     image_path: /images/photos/baldeagle.jpg
     alt: "Bald Eagle (Laramie, WY)"
@@ -114,7 +114,7 @@ gallery:
     alt: "Cactus Wren (Las Cruces, NM)"
     title: "Cactus Wren (Las Cruces, NM)"
 
-gallery-2:
+gallery2:
   - url: /images/photos/ivesia-pityocharis.jpeg
     image_path: /images/photos/ivesia-pityocharis.jpeg
     alt: "Ivesia pityocharis (Pine Nut Mountains, NV)"
@@ -131,9 +131,9 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildl
 
 ## Wildlife 
 
-{% include gallery %}
+{% include gallery id="gallery1" %}
 
 ## Plants
 
-{% include gallery-2 id="gallery-2" %}
+{% include gallery id="gallery2" %}
 
