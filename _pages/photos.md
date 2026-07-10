@@ -139,6 +139,18 @@ gallery2:
     image_path: /images/photos/diplacus-ovatus.jpg
     alt: "Diplacus ovatus (Hidden Valley, NV)"
     title: "Diplacus ovatus (Hidden Valley, NV)"
+  - url: /images/photos/adelinia-grandis.jpg
+    image_path: /images/photos/adelinia-grandis.jpg
+    alt: "Adelina grandis (Mendocino County, CA)"
+    title: "Adelina grandis (Mendocino County, CA)"
+  - url: /images/photos/castilleja-exserta.jpg
+    image_path: /images/photos/castilleja-exserta.jpg
+    alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
+    title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
+  - url: /images/photos/silene-laciniata.jpg
+    image_path: /images/photos/silene-laciniata.jpg
+    alt: "Silene laciniata (Mendocino County, CA)"
+    title: "Silene laciniata (Mendocino County, CA)"
 ---
 
 <br>
