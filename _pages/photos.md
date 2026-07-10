@@ -163,8 +163,8 @@ gallery3:
     image_path: /images/photos/Markarian.jpg
   - url: /images/photos/NGC7000.jpg
     image_path: /images/photos/NGC7000.jpg
-  - url: /images/photos/soul.jpg
-    image_path: /images/photos/soul.jpg
+  - url: /images/photos/Soul.jpg
+    image_path: /images/photos/Soul.jpg
   - url: /images/photos/rosette.jpg
     image_path: /images/photos/rosette.jpg
   - url: /images/photos/westernveil.jpg
