@@ -153,10 +153,22 @@ gallery2:
     title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
 
 gallery3:
-  - url: /images/photos/castilleja-exserta.jpg
-    image_path: /images/photos/castilleja-exserta.jpg
-    alt: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
-    title: "Castilleja exserta latifolia (Ten Mile Dunes, CA)"
+  - url: /images/photos/IC1396.jpg
+    image_path: /images/photos/IC1396.jpg
+  - url: /images/photos/IC1805.jpg
+    image_path: /images/photos/IC1805.jpg
+  - url: /images/photos/IC2177.jpg
+    image_path: /images/photos/IC2177.jpg
+  - url: /images/photos/Markarian.jpg
+    image_path: /images/photos/Markarian.jpg
+  - url: /images/photos/NGC7000.jpg
+    image_path: /images/photos/NGC7000.jpg
+  - url: /images/photos/soul.jpg
+    image_path: /images/photos/soul.jpg
+  - url: /images/photos/rosette.jpg
+    image_path: /images/photos/rosette.jpg
+  - url: /images/photos/westernveil.jpg
+    image_path: /images/photos/westernveil.jpg
 ---
 
 <br>
