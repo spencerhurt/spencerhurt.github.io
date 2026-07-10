@@ -175,14 +175,14 @@ gallery3:
 
 I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildlife">wildlife</a> and <a href="/photos/#plants">plants</a>. Some of my better photos are shown below, but many more horrendous pictures end up on <a href="https://www.inaturalist.org/observations?place_id=any&user_id=spencer-hurt&verifiable=any">iNaturalist</a> and <a href="https://ebird.org/profile/MzY3MzY2MA">eBird</a>. I also infrequently take <a href="/photos/#astrophotography">astronomical photos</a>, some of which can be found on <a href="https://app.astrobin.com/u/shurt">my AstroBin page</a>.
 
-## Wildlife 
+## Wildlife Photos
 
 {% include gallery id="gallery1" %}
 
-## Plants
+## Plant Photos
 
 {% include gallery id="gallery2" %}
 
-## Space
+## Astrophotography
 
 {% include gallery id="gallery3" %}
