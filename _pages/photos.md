@@ -114,6 +114,14 @@ gallery:
     alt: "Cactus Wren (Las Cruces, NM)"
     title: "Cactus Wren (Las Cruces, NM)"
 
+
+gallery2:
+  - url: /images/photos/ivesia-pityocharis.jpeg
+    image_path: /images/photos/ivesia-pityocharis.jpeg
+    alt: "Ivesia pityocharis (Pine Nut Mountains, NV)"
+    title: "Ivesia pityocharis (Pine Nut Mountains, NV)"
+  
+
 ---
 
 <br>
@@ -130,4 +138,5 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildl
 
 ## Plants
 
+{% include gallery2 %}
 
