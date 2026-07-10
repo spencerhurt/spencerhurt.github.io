@@ -155,8 +155,6 @@ gallery2:
 gallery3:
   - url: /images/photos/IC1396.jpg
     image_path: /images/photos/IC1396.jpg
-  - url: /images/photos/IC1805.jpg
-    image_path: /images/photos/IC1805.jpg
   - url: /images/photos/IC2177.jpg
     image_path: /images/photos/IC2177.jpg
   - url: /images/photos/Markarian.jpg
@@ -167,8 +165,6 @@ gallery3:
     image_path: /images/photos/Soul.jpg
   - url: /images/photos/rosette.jpg
     image_path: /images/photos/rosette.jpg
-  - url: /images/photos/westernveil.jpg
-    image_path: /images/photos/westernveil.jpg
 ---
 
 <br>
