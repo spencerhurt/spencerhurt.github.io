@@ -135,10 +135,6 @@ gallery2:
     image_path: /images/photos/penstemon-palmeri.jpg
     alt: "Penstemon palmeri (Washoe County, NV)"
     title: "Penstemon palmeri (Washoe County, NV)"
-  - url: /images/photos/penstemon-palmeri.jpg
-    image_path: /images/photos/penstemon-palmeri.jpg
-    alt: "Penstemon palmeri (Washoe County, NV)"
-    title: "Penstemon palmeri (Washoe County, NV)"
   - url: /images/photos/diplacus-ovatus.jpg
     image_path: /images/photos/diplacus-ovatus.jpg
     alt: "Diplacus ovatus (Hidden Valley, NV)"
