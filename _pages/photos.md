@@ -138,5 +138,5 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photos/#wildl
 
 ## Plants
 
-{% include gallery2 %}
+{% include gallery2 id="gallery2" %}
 
