@@ -115,8 +115,8 @@ gallery1:
     title: "Cactus Wren (Las Cruces, NM)"
 
 gallery2:
-  - url: /images/photos/ivesia-pityocharis.jpeg
-    image_path: /images/photos/ivesia-pityocharis.jpeg
+  - url: /images/photos/ivesia-pityocharis.jpg
+    image_path: /images/photos/ivesia-pityocharis.jpg
     alt: "Ivesia pityocharis (Pine Nut Mountains, NV)"
     title: "Ivesia pityocharis (Pine Nut Mountains, NV)"
 ---
