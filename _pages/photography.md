@@ -191,10 +191,10 @@ I recently started to explore historical aerial imagery <a href="https://earthex
 
 ## Historical Aerial Mosaics
 
-</br>
+<br>
 
 <img src="/images/ferris.jpg">
 
-</br>
+<br>
 
 <img src="/images/gila.jpg">
