@@ -190,7 +190,7 @@ I recently started to explore historical aerial imagery <a href="https://earthex
 {% include gallery id="gallery3" %}
 
 ## Historical Aerial Mosaics  
-
+\
 <img src="/images/ferris.jpg">  
-
+\
 <img src="/images/gila.jpg">
