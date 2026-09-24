@@ -17,4 +17,4 @@ My work focuses on the eco-evolutionary dynamics controlling biological invasion
 
 ## Past Research
 
-As an undergraduate, I led research on the detection and characterization of exoplanets, sub-stellar objects, and circumstellar debris disks.
+As an undergraduate, I led research on the detection and characterization of exoplanets, sub-stellar objects, and circumstellar debris disks. This work plays an important role in understanding how planetary systems—including our own—form and evolve. For a list of my publications in this field, check out either <a href="https://scholar.google.com/citations?user=FM1saMcAAAAJ&hl=en">my Google Scholar page</a> or <a href="https://spencerhurt.github.io/SHurt_CV_Jul9.pdf">my CV</a>. I've been lucky enough to have some of my astronomy research featured in the media, including a search for planets around the bright, nearby star Vega (see the press release <a href="https://www.cfa.harvard.edu/news/giant-sizzling-planet-may-be-orbiting-star-vega">here</a>)
