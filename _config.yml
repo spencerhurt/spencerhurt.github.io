@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : GpKmun0RlmNfDU08KpI1ZBY9eTs-yOgwEvmbxDYeB18
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Spencer Hurt"
   avatar           : "images/self.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming PhD Student at University of Nevada, Reno"
+  bio              : "PhD Student at University of Nevada, Reno"
   location         : "Reno, NV"
   email            :
   links:
