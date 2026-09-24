@@ -16,3 +16,5 @@ The sagebrush steppe—one of the most beautiful and expansive wildlands remaini
 My work focuses on the eco-evolutionary dynamics controlling biological invasions and local adaptation in the Great Basin. Accounting for factors such as plant traits, population origins, and plant-plant interactions, I aim to predict seed mixes that optimize restoration outcomes in different environments and to test those predictions through experiments in post-fire settings.
 
 ## Past Research
+
+As an undergraduate, I led research on the detection and characterization of exoplanets, sub-stellar objects, and circumstellar debris disks.
