@@ -7,7 +7,7 @@ author_profile: false
 
 <br>
 
-<img src="/images/NNPS_logo.webp" width=500>
+<center><img src="/images/NNPS_logo.webp" width=500></center>
 
 ## Outreach
 
