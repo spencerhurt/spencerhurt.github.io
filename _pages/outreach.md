@@ -7,7 +7,7 @@ author_profile: false
 
 <br>
 
-<img src="/images/nvnps_ruler.jpg">
+<img src="/images/nvnpsruler.jpg">
 
 ## Outreach
 
