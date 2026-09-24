@@ -175,6 +175,8 @@ gallery3:
 
 I dabble in all sorts of photography, mostly focusing on <a href="/photography/#wildlife-photos">wildlife</a> and <a href="/photography/#plant-photos">plants</a>. Some of my better photos are shown below, but many more horrendous pictures end up on <a href="https://www.inaturalist.org/observations?place_id=any&user_id=spencer-hurt&verifiable=any">iNaturalist</a> and <a href="https://ebird.org/profile/MzY3MzY2MA">eBird</a>. I also infrequently take <a href="/photography/#astrophotography">astronomical photos</a>, some of which can be found on <a href="https://app.astrobin.com/u/shurt">my AstroBin page</a>.
 
+I recently started to explore historical aerial imagery <a href="https://earthexplorer.usgs.gov/">made available by the USGS</a>, and am experimenting with creating mosaics to visualize landscape-scale change in places near and dear to me. Two mosaics, one of the Ferris Dune Field and another of the West and Middle Fork Canyons of the Gila, are also <a href="/photography/#historical-aerial-mosaics">shown below</a> (albeit at vastly reduced resolution and image quality).
+
 ## Wildlife Photos
 
 {% include gallery id="gallery1" %}
@@ -186,3 +188,7 @@ I dabble in all sorts of photography, mostly focusing on <a href="/photography/#
 ## Astrophotography
 
 {% include gallery id="gallery3" %}
+
+## Historical Aerial Mosaics
+
+<img src="/images/photos/ferris.jpg">
