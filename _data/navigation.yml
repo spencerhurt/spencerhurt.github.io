@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Photography"
     url: /photography/
   - title: "CV"
