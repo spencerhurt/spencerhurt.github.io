@@ -10,7 +10,7 @@
   <url>
        <loc>https://spencerhurt.github.io/about/</loc>
        <lastmod>2026-09-29T15:20:52+00:00</lastmod>
-       <priority>0.8000</priority>
+       <priority>0.9000</priority>
   </url>
   <url>
        <loc>https://spencerhurt.github.io/research/</loc>
@@ -20,16 +20,16 @@
   <url>
        <loc>https://spencerhurt.github.io/outreach/</loc>
        <lastmod>2026-09-29T15:20:52+00:00</lastmod>
-       <priority>0.8000</priority>
+       <priority>0.5000</priority>
   </url>
   <url>
        <loc>https://spencerhurt.github.io/photography/</loc>
        <lastmod>2026-09-29T15:20:52+00:00</lastmod>
-       <priority>0.8000</priority>
+       <priority>0.5000</priority>
   </url>
   <url>
        <loc>https://spencerhurt.github.io/SHurt_CV_Jul9.pdf</loc>
        <lastmod>2026-09-29T15:20:52+00:00</lastmod>
-       <priority>0.8000</priority>
+       <priority>0.1000</priority>
   </url>
 </urlset>
