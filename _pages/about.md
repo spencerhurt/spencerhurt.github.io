@@ -3,6 +3,8 @@ permalink: /about/
 layout: single
 classes: wide
 author_profile: false
+seo_title: Spencer A. Hurt | About
+seo_description: Ecology, Evolution, and Conservation Biology PhD student at the University of Nevada, Reno, researching plant and restoration ecology in Great Basin shrublands.
 
 gallery:
 
