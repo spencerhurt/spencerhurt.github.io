@@ -16,7 +16,7 @@ gallery:
 
 <br>
 
-<img src="/images/self2.jpg">
+<img src="/images/greatbasin/sandmountain.png">
 
 
 ## Great Basin Appreciation
