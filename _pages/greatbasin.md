@@ -23,6 +23,16 @@ gallery:
     image_path: /images/greatbasin/091226-2.jpg
   - url: /images/greatbasin/091226-1.jpg
     image_path: /images/greatbasin/091226-1.jpg
+  - url: /images/greatbasin/090626-1.jpg
+    image_path: /images/greatbasin/090626-1.jpg
+  - url: /images/greatbasin/090526-2.jpg
+    image_path: /images/greatbasin/090526-2.jpg
+  - url: /images/greatbasin/091226-1.jpg
+    image_path: /images/greatbasin/091226-1.jpg
+  - url: /images/greatbasin/081626-2.jpg
+    image_path: /images/greatbasin/081626-2.jpg
+  - url: /images/greatbasin/081626-1.jpg
+    image_path: /images/greatbasin/081626-1.jpg
 ---
 
 <br>
