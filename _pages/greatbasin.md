@@ -39,8 +39,6 @@ gallery:
     image_path: /images/greatbasin/072426-2.jpg
   - url: /images/greatbasin/072426-1.jpg
     image_path: /images/greatbasin/072426-1.jpg
-  - url: /images/greatbasin/060726-3.jpg
-    image_path: /images/greatbasin/060726-3.jpg
   - url: /images/greatbasin/060726-2.jpg
     image_path: /images/greatbasin/060726-2.jpg
   - url: /images/greatbasin/060726-1.jpg
