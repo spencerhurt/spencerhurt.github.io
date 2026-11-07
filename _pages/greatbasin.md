@@ -27,12 +27,42 @@ gallery:
     image_path: /images/greatbasin/090626-1.jpg
   - url: /images/greatbasin/090526-2.jpg
     image_path: /images/greatbasin/090526-2.jpg
-  - url: /images/greatbasin/091226-1.jpg
-    image_path: /images/greatbasin/091226-1.jpg
   - url: /images/greatbasin/081626-2.jpg
     image_path: /images/greatbasin/081626-2.jpg
   - url: /images/greatbasin/081626-1.jpg
     image_path: /images/greatbasin/081626-1.jpg
+  - url: /images/greatbasin/072526-2.jpg
+    image_path: /images/greatbasin/072526-2.jpg
+  - url: /images/greatbasin/072526-1.jpg
+    image_path: /images/greatbasin/072526-1.jpg
+  - url: /images/greatbasin/072426-2.jpg
+    image_path: /images/greatbasin/072426-2.jpg
+  - url: /images/greatbasin/072426-1.jpg
+    image_path: /images/greatbasin/072426-1.jpg
+  - url: /images/greatbasin/060726-3.jpg
+    image_path: /images/greatbasin/060726-3.jpg
+  - url: /images/greatbasin/060726-2.jpg
+    image_path: /images/greatbasin/060726-2.jpg
+  - url: /images/greatbasin/060726-1.jpg
+    image_path: /images/greatbasin/060726-1.jpg
+  - url: /images/greatbasin/060626-3.jpg
+    image_path: /images/greatbasin/060626-3.jpg
+  - url: /images/greatbasin/060626-2.jpg
+    image_path: /images/greatbasin/060626-2.jpg
+  - url: /images/greatbasin/060626-1.jpg
+    image_path: /images/greatbasin/060626-1.jpg
+  - url: /images/greatbasin/052426-1.jpg
+    image_path: /images/greatbasin/052426-1.jpg
+  - url: /images/greatbasin/051226-2.jpg
+    image_path: /images/greatbasin/051226-2.jpg
+  - url: /images/greatbasin/051226-1.jpg
+    image_path: /images/greatbasin/051226-1.jpg
+  - url: /images/greatbasin/050826-3.jpg
+    image_path: /images/greatbasin/050826-3.jpg
+  - url: /images/greatbasin/050826-2.jpg
+    image_path: /images/greatbasin/050826-2.jpg
+  - url: /images/greatbasin/050826-1.jpg
+    image_path: /images/greatbasin/050826-1.jpg
 ---
 
 <br>
