@@ -21,4 +21,4 @@ gallery:
 
 ## Great Basin Appreciation
 
-This ever-growing gallery of landscape photos attempts to convey just how remarkable the Great Basin is, yet it doesn't even begin to scratch the surface! The plant life, wildlife, history, and solitude you can discover in this region are a big part of why I have fallen in love with Nevada, but those are much more difficult to capture with a cellphone camera!
+This ever-growing gallery of landscape photos attempts to convey just how remarkable the Great Basin is, yet it doesn't even begin to scratch the surface! The flora, wildlife, history, and solitude you can discover in this region are a big part of why I have fallen in love with Nevada, but those are much more difficult to capture with a cellphone camera!
